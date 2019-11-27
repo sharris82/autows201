@@ -1,3 +1,10 @@
+*.tfstate
+*.tfstate.backup
+*.retry
+*creds*
+*password*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
